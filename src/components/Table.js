@@ -66,6 +66,28 @@ function Table() {
                             <span>&#8377;</span> 0
                         </td>
                     </tr>
+                    <tr>
+                        <td  className="selector">
+                            <input
+                                className="form-check-input"
+                                type="checkbox"
+                                value=""
+                                id=""
+                            />
+                        </td>
+                        <td>#AHGA68</td>
+                        <td>01/11/2023</td>
+                        <td>Otto</td>
+                        <td>
+                            <span>&#8377;</span> 1000
+                        </td>
+                        <td>
+                            <span>&#8377;</span> 1000
+                        </td>
+                        <td>
+                            <span>&#8377;</span> 0
+                        </td>
+                    </tr>
                 </tbody>
             </table>
         </div>
